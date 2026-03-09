@@ -18,5 +18,5 @@ def check_the_magic2(name,age,location):
 
 
 #order is args then kwargs
-#check_the_magic2(location="Kenya",name="Joseph",age=34)#work
-check_the_magic2("Kenya","Joseph",34,)#will not work
+check_the_magic(location="Kenya",name="Joseph",age=34,favCountry="Saudi Arabia")#work
+#check_the_magic2("Kenya","Joseph",34,)#will not work

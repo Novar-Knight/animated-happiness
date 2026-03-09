@@ -1,0 +1,9 @@
+{
+    "account_no": "111111",
+    "id_no": "111111",
+    "name": "John Doe",
+    "transaction_history": [],
+    "balance": 0,
+    "password": "111111",
+    "is_locked": true
+}

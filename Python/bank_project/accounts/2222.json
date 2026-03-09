@@ -1,0 +1,17 @@
+{
+    "account_no": "2222",
+    "id_no": "2222",
+    "name": "Mr 2",
+    "transaction_history": [
+        {
+            "transaction_type": "Deposit",
+            "timestamp": "2026-02-19 16:03:01",
+            "amount": 500.0,
+            "balance": 0,
+            "new_balance": 500.0
+        }
+    ],
+    "balance": 500.0,
+    "password": "2222",
+    "is_locked": true
+}
